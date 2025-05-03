@@ -56,6 +56,17 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
+
+### Streak Record
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=harsh-dev-opss)
+
+### Github Stats
+<span align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-dev-opss&show_icons=true&locale=en" alt="harsh-dev-opss" /></span>
+
+### Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-dev-opss&layout=pie)](https://github.com/harsh-dev-opss/github-readme-stats)
+<h3 align="center">⚡ Automate Everything | Think Cloud First | Stay Resilient ⚡</h3>
+
 ---
 
 
@@ -69,5 +80,3 @@
 </p>
 
 ---
-
-<h3 align="center">⚡ Automate Everything | Think Cloud First | Stay Resilient ⚡</h3>
